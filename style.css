@@ -2,8 +2,8 @@
 
 :root {
     --cor-fundo: #01080E;
-    --cor-principal: #25eebc ;
-    --cor-secundaria: #9ea8f1;
+    --cor-principal: #0B0D20 ;
+    --cor-secundaria: #6b719c;
     --cor-destaque: #2BDEFD;
     --cor-texto: #D7F9FF;
 }
@@ -24,7 +24,7 @@ body {
     max-width: 800px;
     text-align: center;
     padding: 50px;
-    font-size: larger;
+    font-size: large;
 }
 
 h1, .caixa-perguntas, .caixa-resultado{
