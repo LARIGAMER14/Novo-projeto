@@ -9,6 +9,7 @@
 }
   
 body {
+    background-image: url("");
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     font-family: 'Inter', sans-serif;
