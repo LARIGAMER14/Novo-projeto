@@ -24,6 +24,7 @@ body {
     max-width: 800px;
     text-align: center;
     padding: 50px;
+    font-size: larger;
 }
 
 h1, .caixa-perguntas, .caixa-resultado{
