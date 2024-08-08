@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "O duende resolve contar sua história e então começa dizendo que a sua vila foi destruida por gigantes e que devido ao fato ele perdeu toda a sua familia de pequeninos duendes assim como ele, e que a unica cooisa que lhe restou foram algumas moedas.",
+        enunciado: "O duende resolve contar sua história e então começa dizendo que a sua vila foi destruida por gigantes e que devido ao fato, ele perdeu toda a sua familia de pequeninos duendes assim como ele, e que a unica coisa que lhe restou foram algumas moedas.",
         alternativas: [
             {
                 texto: "Isso é assustador!",
