@@ -3,7 +3,7 @@ export const perguntas = [
         enunciado: "O duende resolve contar sua história e então começa dizendo que a sua vila foi destruida por gigantes e que devido ao fato, ele perdeu toda a sua familia de pequeninos duendes assim como ele, e que a unica coisa que lhe restou foram algumas moedas.",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Ele resolve seguir sozinho!",
                 afirmacao: [
                     "No início ficou com medo do que essa tecnologia pode fazer.",
                     "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
@@ -11,7 +11,7 @@ export const perguntas = [
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "O pescador ajuda ele!",
                 afirmacao: [
                     "Quis saber como usar IA no seu dia a dia.",
                     "Pensou que IA pode ajudar em tarefas da sua vida."
