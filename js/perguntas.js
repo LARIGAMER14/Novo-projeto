@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "O duende resolve contar sua história e então começa dizendo que a sua vila foi destruida por gigantes e que devido ao fato ele perdeu toda a sua familia de pequeninos duendes assim como ele, e que a unica cooisa que lhe restou foram algumas moedas.",
         alternativas: [
             {
                 texto: "Isso é assustador!",
