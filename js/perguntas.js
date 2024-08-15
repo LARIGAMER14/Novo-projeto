@@ -8,7 +8,7 @@ export const perguntas = [
                     "Você preferiu não ter ajuda para começar sua jornada.",
                     "Você ficou solitário, mas continuou sua jornada apenas com a sua própria companhia."
                 ],
-                proxima: 9,
+                proxima: 1,
             },
             {
                 texto: "O pescador ajuda ele!",
@@ -29,15 +29,15 @@ export const perguntas = [
                     "Você decidiu enfrentar os gigantes diretamente, mesmo sabendo que seria perigoso.",
                     "Você percebe que a coragem pode ser a chave para superar desafios aparentemente intransponíveis."
                 ],
-                proxima: 8,
+                proxima: 9,
             },
             {
                 texto: "Tentar escapar e evitar os gigantes.",
                 afirmacao: [
-                    "Você escolheu evitar o confronto com os gigantes, optando por buscar um caminho mais seguro.",
-                    "Você percebe que, às vezes, evitar um perigo pode ser uma escolha mais sensata."
+                    "Você escolheu tentar evitar o confronto com os gigantes.",
+                    "Você percebe que, às vezes, evitar um perigo poderia ser uma escolha mais sensata."
                 ],
-                proxima: 3,
+                proxima: 9,
             },
         ]
     },
@@ -191,7 +191,7 @@ export const perguntas = [
         ]
     }
     {
-       (9) enunciado: "Você preferiu seguir sozinho mas encontrou com os gigantes que destruíam sua vila e ",
+       (9) enunciado: "Os gigantes pegaram você.",
         alternativas: [
             {
                 texto: "Tentar fugir sem que eles percebram.",
