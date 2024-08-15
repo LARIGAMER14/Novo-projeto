@@ -67,7 +67,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após uma longa jornada, você finalmente chega ao final do arco-íris. Lá, você encontra o pote que procurava. Qual é a sua reação ao descobrir o que há dentro dele?",
+        enunciado: "Após uma longa jornada com seu amigo Oscar, você finalmente chega ao final do arco-íris. Lá, você encontra o pote que procurava. Qual é a sua reação ao descobrir o que há dentro dele?",
         alternativas: [
             {
                 texto: "Você encontra um pote cheio de ouro e se alegra muito.",
