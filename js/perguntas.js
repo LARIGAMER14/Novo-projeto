@@ -103,7 +103,7 @@ export const perguntas = [
                     "Você se alegra por finalmente encontrar algo que te faz feliz.",
                     "Você decide aproveitar o momento e celebrar com seus chocolates.."
                 ],
-                proxima: 6,
+                proxima: 5,
             },
         ]
     },
@@ -137,7 +137,7 @@ export const perguntas = [
                     "Você sente que cumpriu sua missão e fez uma grande diferença na vida das pessoas.",
                     "Você percebe que a verdadeira felicidade está em ajudar os outros e fazer o bem."
                 ],
-                proxima: 7,
+                proxima: 8,
             },
             {
                 texto: "Você se sente um pouco desapontado, pois esperava algo mais.",
@@ -145,7 +145,7 @@ export const perguntas = [
                     "Você percebe que a reconstrução trouxe alegria, mas ainda sente uma falta interna.",
                     "Você começa a refletir sobre o que realmente busca na vida e o que é importante para você."
                 ],
-                proxima: 7,
+                proxima: 8,
             },
         ]
     },
