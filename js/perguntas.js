@@ -29,7 +29,7 @@ export const perguntas = [
                     "Você decidiu enfrentar os gigantes diretamente, mesmo sabendo que seria perigoso.",
                     "Você percebe que a coragem pode ser a chave para superar desafios aparentemente intransponíveis."
                 ],
-                proxima: 8,
+                proxima: 9,
             },
             {
                 texto: "Tentar escapar e evitar os gigantes.",
@@ -191,9 +191,7 @@ export const perguntas = [
         ]
     }
     enunciado: "Você tentou enfrentar os gigantes sozinho e perdeu, eles riram de você e te prenderam em uma jaula e falaram que você nunca mais vai sair de lá.",
-    <p class="texto-resultado"></p>
-    <button class="novamente-btn">Jogar novamente</button>
-    alternativas: [
+        alternativas: [
             {
                 texto: "",
                 afirmacao: [
