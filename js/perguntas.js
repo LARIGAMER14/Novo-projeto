@@ -21,6 +21,27 @@ export const perguntas = [
         ]
     },
     {
+        enunciado: "Você não quis a ajuda do pescador e preferiu seguir o seu caminho sozinho, você teve um caminho com muitos obstáculos e acabou encontrando com os gigante que destruíram sua vila. Oque você irá fazer?",
+        alternativas: [
+            {
+                texto: "",
+                afirmacao: [
+                    "",
+                    ""
+                ],
+                proxima: 1,
+            },
+            {
+                texto: "",
+                afirmacao: [
+                    "",
+                    ""
+                ],
+                proxima: 2,
+            },
+        ]
+    },
+    {
         enunciado: "Você resolveu continuar sua jornada com seu novo amigo pescador chamado de Oscar, contando toda a sua história para ele desde o início, ele falou que iria te ajudar até o fim de sua jornada, mas antes queria saber qual era o tesouro que ele estava procurando.",
         alternativas: [
             {
