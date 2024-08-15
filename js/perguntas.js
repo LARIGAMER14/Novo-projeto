@@ -154,18 +154,17 @@ export const perguntas = [
         enunciado: "Após toda essa jornada você aprendeu diversas coisas com ela. O que você aprendeu com essa experiência?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Aprendeu que a verdadeira riqueza está em ajudar os outros e compartilhar.",
                 afirmacao: [
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
-                    "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
+                    "Você percebe que, embora tenha alcançado seus objetivos, a verdadeira felicidade vem de fazer o bem.",
+                    "Você entende que sua jornada trouxe mais valor para os outros do que para si mesmo."
                 ],
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Aprendeu que a felicidade pessoal pode vir de formas inesperadas e simples.",
                 afirmacao: [
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
-                    "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
-                    "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
+                    "Você percebe que a alegria pode ser encontrada em pequenos momentos e em escolhas inesperadas.",
+                    "Você começa a valorizar mais a simplicidade e a alegria que vem de dentro",
                 ],
             },
         ]
