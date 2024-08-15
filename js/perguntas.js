@@ -132,7 +132,7 @@ export const perguntas = [
      enunciado: "Após usar o ouro para reconstruir a vila, agora está vendo a alegria e a gratidão dos habitantes. Como você se sente com essa escolha?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Você fica realizado vendo todos conseguindo reconstruir suas vidas",
                 afirmacao: [
                     "Você sente que cumpriu sua missão e fez uma grande diferença na vida das pessoas.",
                     "Você percebe que a verdadeira felicidade está em ajudar os outros e fazer o bem."
