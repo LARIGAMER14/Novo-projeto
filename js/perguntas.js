@@ -48,8 +48,8 @@ export const perguntas = [
                 texto: "Confiar nele e falar sobre seu tesoro.",
                 afirmacao: [
                     "Você estava atrás de um pote de ouro com o seu amigo .",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "",
+                    ""
                 ],
                 proxima: 3,
             },
