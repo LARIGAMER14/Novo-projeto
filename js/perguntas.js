@@ -5,16 +5,16 @@ export const perguntas = [
             {
                 texto: "Ele resolve seguir sozinho!",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "Você preferiu não ter ajuda para começar sua jornada.",
+                    "Você ficou solitário e continuou sua jornada apenas com a sua própria companhia."
                 ],
                 proxima: 1,
             },
             {
                 texto: "O pescador ajuda ele!",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Com ajuda da amizade você começou sua jornada.",
+                    "Com ajuda tudo ficou mais fácil para você."
                 ],
                 proxima: 2,
             },
