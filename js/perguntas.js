@@ -45,11 +45,10 @@ export const perguntas = [
      enunciado: "Você resolveu continuar sua jornada com seu novo amigo pescador chamado de Oscar, contando toda a sua história para ele desde o início, ele falou que iria te ajudar até o fim de sua jornada, mas antes queria saber qual era o tesouro que ele estava procurando.",
         alternativas: [
             {
-                texto: "Confiar nele e falar sobre seu tesoro.",
+                texto: "Confiar nele e falar sobre seu tesouro.",
                 afirmacao: [
                     "Você estava atrás de um pote de ouro com o seu amigo .",
-                    "",
-                    ""
+                    "Você teve um amigo de confiança em sua jornada."
                 ],
                 proxima: 3,
             },
