@@ -24,20 +24,20 @@ export const perguntas = [
         enunciado: "Você não quis a ajuda do pescador e preferiu seguir o seu caminho sozinho, você teve um caminho com muitos obstáculos e acabou encontrando com os gigante que destruíram sua vila. Oque você irá fazer?",
         alternativas: [
             {
-                texto: "",
+                texto: "Enfrentar os gigantes e lutar contra eles.",
                 afirmacao: [
-                    "",
-                    ""
+                    "Você decidiu enfrentar os gigantes diretamente, mesmo sabendo que seria perigoso.",
+                    "Você percebe que a coragem pode ser a chave para superar desafios aparentemente intransponíveis."
                 ],
                 proxima: 1,
             },
             {
-                texto: "",
+                texto: "Tentar escapar e evitar os gigantes.",
                 afirmacao: [
-                    "",
-                    ""
+                    "Você escolheu evitar o confronto com os gigantes, optando por buscar um caminho mais seguro.",
+                    "Você percebe que, às vezes, evitar um perigo pode ser uma escolha mais sensata."
                 ],
-                proxima: 2,
+                proxima: 3,
             },
         ]
     },
@@ -51,7 +51,7 @@ export const perguntas = [
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
                     "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
                 ],
-                proxima: 3,
+                proxima: 4,
             },
             {
                 texto: "Ficar desconfiado e mentir.",
@@ -60,7 +60,7 @@ export const perguntas = [
                     ".",
                     "."
                 ],
-                proxima: 4,
+                proxima: 5,
             },
         ]
     },
@@ -74,7 +74,7 @@ export const perguntas = [
                     "Você sempre pensou como seria ter muito dinheiro para ajudar sua família, então decidiu ir atrás do ouro para viver em paz.",
                     "Você sempre quis muito dinheiro para viver uma vida boa, sem ter sua família, decidiu se arriscar e ir atrás de ouro para viver bem."
                 ],
-                proxima: 3,
+                proxima: 4,
             },
             {
                 texto: "Um pote totalmente recheado de chocolates.",
