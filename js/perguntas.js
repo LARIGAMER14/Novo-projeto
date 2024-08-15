@@ -27,7 +27,7 @@ export const perguntas = [
                 texto: "Enfrentar os gigantes e lutar contra eles.",
                 afirmacao: [
                     "Você decidiu enfrentar os gigantes diretamente, mesmo sabendo que seria perigoso.",
-                    "Você percebe que a coragem pode ser a chave para superar desafios aparentemente intransponíveis."
+                    "A coragem pode ser a chave para superar desafios aparentemente intransponíveis."
                 ],
                 proxima: 9,
             },
