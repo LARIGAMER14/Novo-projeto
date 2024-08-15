@@ -51,7 +51,7 @@ export const perguntas = [
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
                     "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
                 ],
-                proxima: 4,
+                proxima: 3,
             },
             {
                 texto: "Ficar desconfiado e mentir.",
@@ -60,7 +60,7 @@ export const perguntas = [
                     ".",
                     "."
                 ],
-                proxima: 5,
+                proxima: 4,
             },
         ]
     },
@@ -88,7 +88,7 @@ export const perguntas = [
         ]
     },
     {
-        (4) enunciado: "Após uma longa jornada com seu amigo Oscar, você finalmente chega ao final do arco-íris. Lá, você encontra o pote que procurava. Qual é a sua reação ao descobrir o que há dentro dele?",
+        (4) enunciado: "Após uma longa jornada com seu amigo Oscar, você finalmente chega ao final do arco-íris. Lá, você encontra o que procurava. Qual é a sua reação ao descobrir o que há lá?",
         alternativas: [
             {
                 texto: "Você encontra um pote cheio de ouro e se alegra muito.",
@@ -117,7 +117,7 @@ export const perguntas = [
                     "Você decide usar o ouro para ajudar sua vila e reconstruir o que foi perdido.",
                     "Você sente que ajudando os outros traz um grande propósito à sua vida."
                 ],
-                proxima: 5,
+                proxima: 6,
             },
             {
                 texto: "Usar os chocolates para fazer uma grande festa e compartilhar com todos.",
@@ -125,7 +125,7 @@ export const perguntas = [
                     "Você decide usar os chocolates para fazer uma festa e fazer novos amigos.",
                     "Você sente que a amizade e a alegria são as verdadeiras recompensas da jornada."
                 ],
-                proxima: 6,
+                proxima: 7,
             },
         ]
     },
@@ -151,7 +151,7 @@ export const perguntas = [
         ]
     },
     {
-        (7) enunciado: "Se você usou os chocolates para fazer uma festa, todos estão se divertindo e celebrando. Como você se sente com essa escolha?",
+        (7) enunciado: "Você usou os chocolates para fazer uma festa, todos estão se divertindo e celebrando. Como você se sente com essa escolha?",
         alternativas: [
             {
                 texto: "Você se sente feliz e satisfeito ao ver todos se divertindo.",
@@ -159,7 +159,7 @@ export const perguntas = [
                     "Você se alegra ao ver a felicidade e a diversão das pessoas ao seu redor.",
                     "Você sente que fez a escolha certa ao compartilhar a alegria com outros."
                 ],
-                proxima: 7,
+                proxima: 8,
             },
             {
                 texto: "Você sente que a festa não preencheu o vazio que você sentia.",
@@ -167,7 +167,7 @@ export const perguntas = [
                     "Você percebe que a felicidade temporária não substitui a necessidade de algo mais profundo.",
                     "Você começa a refletir sobre o que realmente deseja alcançar na vida."
                 ],
-                proxima: 7,
+                proxima: 8,
             },
         ]
     },
