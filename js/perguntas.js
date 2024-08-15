@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        (0) enunciado: "O duende resolve contar sua história e então começa dizendo que a sua vila foi destruida por gigantes e que devido ao fato, ele perdeu toda a sua familia de pequeninos duendes assim como ele, e que a unica coisa que lhe restou foram algumas moedas.",
+        (0) enunciado: "O duende contando sua história diz que a sua vila foi destruida por gigantes e que devido ao fato, ele perdeu toda a sua familia de pequeninos duendes assim como ele, e que a unica coisa que lhe restou foram algumas moedas.",
         alternativas: [
             {
                 texto: "Ele resolve seguir sozinho!",
@@ -56,9 +56,8 @@ export const perguntas = [
             {
                 texto: "Ficar desconfiado e mentir.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    ".",
-                    "."
+                    "Você deveria criar mais confiança em amigos.",
+                    "Você teve uma jornada muito difícil pois não confiava direito em seu amigo.",
                 ],
                 proxima: 4,
             },
