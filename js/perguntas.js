@@ -6,7 +6,7 @@ export const perguntas = [
                 texto: "Ele resolve seguir sozinho!",
                 afirmacao: [
                     "Você preferiu não ter ajuda para começar sua jornada.",
-                    "Você ficou solitário e continuou sua jornada apenas com a sua própria companhia."
+                    "Você ficou solitário, mas continuou sua jornada apenas com a sua própria companhia."
                 ],
                 proxima: 1,
             },
