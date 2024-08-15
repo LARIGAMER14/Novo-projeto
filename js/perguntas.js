@@ -188,7 +188,7 @@ export const perguntas = [
                 ],
             },
         ]
-    }
+    },
     {
      enunciado: "Os gigantes pegaram você.",
         alternativas: [
