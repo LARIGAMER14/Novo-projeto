@@ -36,8 +36,8 @@ export const perguntas = [
                 texto: "Ficar desconfiado e mentir.",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    ".",
+                    "."
                 ],
                 proxima: 4,
             },
@@ -49,109 +49,109 @@ export const perguntas = [
             {
                 texto: "Um pote com muito ouro.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Você nunca teve muitas riquezas com sua família, então foi atrás de ouro para tentar viver melhor.",
+                    "Você sempre pensou como seria ter muito dinheiro para ajudar sua família, então decidiu ir atrás do ouro para viver em paz.",
+                    "Você sempre quis muito dinheiro para viver uma vida boa, sem ter sua família, decidiu se arriscar e ir atrás de ouro para viver bem."
                 ],
                 proxima: 3,
             },
             {
                 texto: "Um pote totalmente recheado de chocolates.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Você nunca ligou muito para dinheiro, então escolheu ir atrás de chocolates para ficar feliz.",
+                    "Chocolate sempre foi seu ponto fraco, então você preferiu ir atrás dele para sua felicidade.",
+                    "Você sempre amou chocolate então foi atrás disso para ter sua felicidade."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Após uma longa jornada, você finalmente chega ao final do arco-íris. Lá, você encontra o pote que procurava. Qual é a sua reação ao descobrir o que há dentro dele?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Você encontra um pote cheio de ouro e se alegra muito.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Você fica feliz por ter encontrado o ouro que procurava.",
+                    "Você sente que todo o esforço e a jornada valeram a pena."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Você encontra um pote cheio de chocolates e fica surpreso vendo todo aquele chocolate.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Você se alegra por finalmente encontrar algo que te faz feliz.",
+                    "Você decide aproveitar o momento e celebrar com seus chocolates.."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Após encontrar o tesouro, você precisa decidir o que fazer a seguir. Quais são suas opções?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Usar o ouro para reconstruir sua vila longe em paz e ajudar outras pessoas.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Você decide usar o ouro para ajudar sua vila e reconstruir o que foi perdido.",
+                    "Você sente que ajudando os outros traz um grande propósito à sua vida."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Usar os chocolates para fazer uma grande festa e compartilhar com todos.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Você decide usar os chocolates para fazer uma festa e fazer novos amigos.",
+                    "Você sente que a amizade e a alegria são as verdadeiras recompensas da jornada."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Novas tecnologias trazem novos desafios, por isso após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Após usar o ouro para reconstruir a vila, agora está vendo a alegria e a gratidão dos habitantes. Como você se sente com essa escolha?",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Você sente que cumpriu sua missão e fez uma grande diferença na vida das pessoas.",
+                    "Você percebe que a verdadeira felicidade está em ajudar os outros e fazer o bem."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Você se sente um pouco desapontado, pois esperava algo mais.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Você percebe que a reconstrução trouxe alegria, mas ainda sente uma falta interna.",
+                    "Você começa a refletir sobre o que realmente busca na vida e o que é importante para você."
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "É muito importante refletir sobre os trabalhadores do futuro. Por isso a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Se você usou os chocolates para fazer uma festa, todos estão se divertindo e celebrando. Como você se sente com essa escolha?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Você se sente feliz e satisfeito ao ver todos se divertindo.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Você se alegra ao ver a felicidade e a diversão das pessoas ao seu redor.",
+                    "Você sente que fez a escolha certa ao compartilhar a alegria com outros."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Você sente que a festa não preencheu o vazio que você sentia.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Você percebe que a felicidade temporária não substitui a necessidade de algo mais profundo.",
+                    "Você começa a refletir sobre o que realmente deseja alcançar na vida."
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Após toda essa jornada",
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
