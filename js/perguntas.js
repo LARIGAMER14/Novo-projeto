@@ -13,7 +13,7 @@ export const perguntas = [
             {
                 texto: "O pescador ajuda ele!",
                 afirmacao: [
-                    "Com ajuda da amizade você começou sua jornada.",
+                    "Você começou sua jornada com ajuda da amizade.",
                     "Com ajuda tudo ficou mais fácil para você."
                 ],
                 proxima: 2,
