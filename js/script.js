@@ -59,7 +59,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = `Em 2049, ${nome}`;
+    caixaPerguntas.textContent = `Você chegou ao final, ${nome}`;
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
     caixaResultado.classList.add("mostrar");
