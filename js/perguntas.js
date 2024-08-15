@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "O duende resolve contar sua história e então começa dizendo que a sua vila foi destruida por gigantes e que devido ao fato, ele perdeu toda a sua familia de pequeninos duendes assim como ele, e que a unica coisa que lhe restou foram algumas moedas.",
+        (0) enunciado: "O duende resolve contar sua história e então começa dizendo que a sua vila foi destruida por gigantes e que devido ao fato, ele perdeu toda a sua familia de pequeninos duendes assim como ele, e que a unica coisa que lhe restou foram algumas moedas.",
         alternativas: [
             {
                 texto: "Ele resolve seguir sozinho!",
@@ -21,7 +21,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você não quis a ajuda do pescador e preferiu seguir o seu caminho sozinho, você teve um caminho com muitos obstáculos e acabou encontrando com os gigante que destruíram sua vila. Oque você irá fazer?",
+        (1) enunciado: "Você não quis a ajuda do pescador e preferiu seguir o seu caminho sozinho, você teve um caminho com muitos obstáculos e acabou encontrando com os gigante que destruíram sua vila. Oque você irá fazer?",
         alternativas: [
             {
                 texto: "Enfrentar os gigantes e lutar contra eles.",
@@ -42,7 +42,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você resolveu continuar sua jornada com seu novo amigo pescador chamado de Oscar, contando toda a sua história para ele desde o início, ele falou que iria te ajudar até o fim de sua jornada, mas antes queria saber qual era o tesouro que ele estava procurando.",
+        (2) enunciado: "Você resolveu continuar sua jornada com seu novo amigo pescador chamado de Oscar, contando toda a sua história para ele desde o início, ele falou que iria te ajudar até o fim de sua jornada, mas antes queria saber qual era o tesouro que ele estava procurando.",
         alternativas: [
             {
                 texto: "Confiar nele e falar sobre seu tesoro.",
@@ -65,7 +65,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você gostou muito da amizade do pescador e então contou para ele sobre o tal tesouro que você estava atrás, estando totalmente sem sua família, você queria achar o tesouro no final do arco-íris para tentar viver sua vida em paz longe dos gigantes. Você fala para seu amigo que esta atrás de que?",
+        (3) enunciado: "Você gostou muito da amizade do pescador e então contou para ele sobre o tal tesouro que você estava atrás, estando totalmente sem sua família, você queria achar o tesouro no final do arco-íris para tentar viver sua vida em paz longe dos gigantes. Você fala para seu amigo que esta atrás de que?",
         alternativas: [
             {
                 texto: "Um pote com muito ouro.",
@@ -88,7 +88,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após uma longa jornada com seu amigo Oscar, você finalmente chega ao final do arco-íris. Lá, você encontra o pote que procurava. Qual é a sua reação ao descobrir o que há dentro dele?",
+        (4) enunciado: "Após uma longa jornada com seu amigo Oscar, você finalmente chega ao final do arco-íris. Lá, você encontra o pote que procurava. Qual é a sua reação ao descobrir o que há dentro dele?",
         alternativas: [
             {
                 texto: "Você encontra um pote cheio de ouro e se alegra muito.",
@@ -109,7 +109,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após encontrar o tesouro, você precisa decidir o que fazer a seguir. Quais são suas opções?",
+        (5) enunciado: "Após encontrar o tesouro, você precisa decidir o que fazer a seguir. Quais são suas opções?",
         alternativas: [
             {
                 texto: "Usar o ouro para reconstruir sua vila longe em paz e ajudar outras pessoas.",
@@ -130,7 +130,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após usar o ouro para reconstruir a vila, agora está vendo a alegria e a gratidão dos habitantes. Como você se sente com essa escolha?",
+       (6) enunciado: "Após usar o ouro para reconstruir a vila, agora está vendo a alegria e a gratidão dos habitantes. Como você se sente com essa escolha?",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
@@ -151,7 +151,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Se você usou os chocolates para fazer uma festa, todos estão se divertindo e celebrando. Como você se sente com essa escolha?",
+        (7) enunciado: "Se você usou os chocolates para fazer uma festa, todos estão se divertindo e celebrando. Como você se sente com essa escolha?",
         alternativas: [
             {
                 texto: "Você se sente feliz e satisfeito ao ver todos se divertindo.",
@@ -172,7 +172,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após toda essa jornada você aprendeu diversas coisas com ela. O que você aprendeu com essa experiência?",
+        (8) enunciado: "Após toda essa jornada você aprendeu diversas coisas com ela. O que você aprendeu com essa experiência?",
         alternativas: [
             {
                 texto: "Aprendeu que a verdadeira riqueza está em ajudar os outros e compartilhar.",
@@ -191,7 +191,7 @@ export const perguntas = [
         ]
     }
     {
-        enunciado: "Você preferiu seguir sozinho mas encontrou com os gigantes que destruíam sua vila e ",
+       (9) enunciado: "Você preferiu seguir sozinho mas encontrou com os gigantes que destruíam sua vila e ",
         alternativas: [
             {
                 texto: "Tentar fugir sem que eles percebram.",
