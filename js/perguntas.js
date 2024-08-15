@@ -8,7 +8,7 @@ export const perguntas = [
                     "Você preferiu não ter ajuda para começar sua jornada.",
                     "Você ficou solitário, mas continuou sua jornada apenas com a sua própria companhia."
                 ],
-                proxima: 1,
+                proxima: 9,
             },
             {
                 texto: "O pescador ajuda ele!",
@@ -190,22 +190,23 @@ export const perguntas = [
             },
         ]
     }
-    enunciado: "Você tentou enfrentar os gigantes sozinho e perdeu, eles riram de você e te prenderam em uma jaula e falaram que você nunca mais vai sair de lá.",
+    {
+        enunciado: "Você preferiu seguir sozinho mas encontrou com os gigantes que destruíam sua vila e ",
         alternativas: [
             {
-                texto: "",
+                texto: "Tentar fugir sem que eles percebram.",
                 afirmacao: [
-                    "",
-                    ""
+                    "Você tentou fugir mas eles te pegaram mesmo assim, você ficou preso com eles para sempre.",
+                    "Você não conseguiu fugir deles e ficou la pela eternidade."
                 ],
             },
             {
-                texto: "",
+                texto: "Desistir de sua jornada.",
                 afirmacao: [
-                    "",
-                    "",
+                    "Você desistiu de sua história e ficou com os gigantes, você se arrependeu para sempre de não ter aceitado a ajuda do pescador Oscar",
+                    "Você desistiu de sua história, se você estivesse com seu amigo pescador Oscar, você poderia ter tido mais sorte.",
                 ],
             },
         ]
-    }
+    }  
 ];
