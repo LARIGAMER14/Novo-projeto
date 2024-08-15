@@ -44,7 +44,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você gostou muito da amizade do pescador e então contou para ele sobre o tal tesouro que você estava atrás, estando totalmente sem sua família, você queria achar o tesouro no final do arco-íris para tentar viver sua vida em paz longe dos gigantes. Qual é o tesouro de sua jornada?",
+        enunciado: "Você gostou muito da amizade do pescador e então contou para ele sobre o tal tesouro que você estava atrás, estando totalmente sem sua família, você queria achar o tesouro no final do arco-íris para tentar viver sua vida em paz longe dos gigantes. Você fala para seu amigo que esta atrás de que?",
         alternativas: [
             {
                 texto: "Um pote com muito ouro.",
