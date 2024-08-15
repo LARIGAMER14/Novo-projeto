@@ -151,7 +151,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após toda essa jornada",
+        enunciado: "Após toda essa jornada você aprendeu diversas coisas com ela. O que você aprendeu com essa experiência?",
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
