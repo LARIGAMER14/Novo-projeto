@@ -85,27 +85,8 @@ export const perguntas = [
             },
         ]
     },
-    {
-     enunciado: "Após uma longa jornada com seu amigo Oscar, você finalmente chega ao final do arco-íris. Lá, você encontra o que procurava. Qual é a sua reação ao descobrir o que há lá?",
-        alternativas: [
-            {
-                texto: "Você encontra um pote cheio de ouro e se alegra muito.",
-                afirmacao: [
-                    "Você fica feliz por ter encontrado o ouro que procurava.",
-                    "Você sente que todo o esforço e a jornada valeram a pena."
-                ],
-                proxima: 5,
-            },
-            {
-                texto: "Você encontra um pote cheio de chocolates e fica surpreso vendo todo aquele chocolate.",
-                afirmacao: [
-                    "Você se alegra por finalmente encontrar algo que te faz feliz.",
-                    "Você decide aproveitar o momento e celebrar com seus chocolates."
-                ],
-                proxima: 5,
-            },
-        ]
-    },
+
+    
     {
      enunciado: "Após encontrar o tesouro, você precisa decidir o que fazer a seguir. Quais são suas opções?",
         alternativas: [
