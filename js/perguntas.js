@@ -96,7 +96,7 @@ export const perguntas = [
                     "Você decide usar o ouro para ajudar sua vila e reconstruir o que foi perdido.",
                     "Você sente que ajudando os outros traz um grande propósito à sua vida."
                 ],
-                proxima: 6,
+                proxima: 7,
             },
             {
                 texto: "Usar os chocolates para fazer uma grande festa e compartilhar com todos.",
@@ -104,7 +104,7 @@ export const perguntas = [
                     "Você decide usar os chocolates para fazer uma festa e fazer novos amigos.",
                     "Você sente que a amizade e a alegria são as verdadeiras recompensas da jornada."
                 ],
-                proxima: 7,
+                proxima: 8,
             },
         ]
     },
