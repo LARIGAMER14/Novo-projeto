@@ -100,7 +100,7 @@ export const perguntas = [
             {
                 texto: "Usar os chocolates para fazer uma grande festa e compartilhar com todos.",
                 afirmacao: [
-                    "Você decide usar os chocolates para fazer uma festa e fazer novos amigos.",
+                    "Você decide usar os chocolates para fazer uma festa e fazer novos amigos,",
                     "Você sente que a amizade e a alegria são as verdadeiras recompensas da jornada."
                 ],
                 proxima: 7,
@@ -134,16 +134,16 @@ export const perguntas = [
             {
                 texto: "Você se sente feliz e satisfeito ao ver todos se divertindo.",
                 afirmacao: [
-                    "Você se alegra ao ver a felicidade e a diversão das pessoas ao seu redor.",
-                    "Você sente que fez a escolha certa ao compartilhar a alegria com outros."
+                    "você se alegra ao ver a felicidade e a diversão das pessoas ao seu redor.",
+                    "você sente que fez a escolha certa ao compartilhar a alegria com outros."
                 ],
                 proxima: 7,
             },
             {
                 texto: "Você sente que a festa não preencheu o vazio que você sentia.",
                 afirmacao: [
-                    "Você percebe que a felicidade temporária não substitui a necessidade de algo mais profundo.",
-                    "Você começa a refletir sobre o que realmente deseja alcançar na vida."
+                    "você percebe que a felicidade temporária não substitui a necessidade de algo mais profundo.",
+                    "você começa a refletir sobre o que realmente deseja alcançar na vida."
                 ],
                 proxima: 7,
             },
