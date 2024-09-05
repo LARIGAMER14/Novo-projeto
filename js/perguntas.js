@@ -47,7 +47,7 @@ export const perguntas = [
             {
                 texto: "Confiar nele e falar sobre seu tesouro.",
                 afirmacao: [
-                    "atrás de um pote de ouro com o seu amigo .",
+                    "atrás de um pote de ouro com o seu amigo.",
                     "pois você teve um amigo de confiança em sua jornada."
                 ],
                 proxima: 3,
