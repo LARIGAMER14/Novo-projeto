@@ -13,8 +13,8 @@ export const perguntas = [
             {
                 texto: "Aceitar a ajuda do pescador!",
                 afirmacao: [
-                    "Você começou sua jornada com ajuda da amizade.",
-                    "Com ajuda tudo ficou mais fácil para você."
+                    "Você começou sua jornada com ajuda da amizade,",
+                    "Com ajuda tudo ficou mais fácil para você,"
                 ],
                 proxima: 2,
             },
@@ -47,16 +47,16 @@ export const perguntas = [
             {
                 texto: "Confiar nele e falar sobre seu tesouro.",
                 afirmacao: [
-                    "Você estava atrás de um pote de ouro com o seu amigo .",
-                    "Você teve um amigo de confiança em sua jornada."
+                    "atrás de um pote de ouro com o seu amigo .",
+                    "pois você teve um amigo de confiança em sua jornada."
                 ],
                 proxima: 3,
             },
             {
                 texto: "Ficar desconfiado e mentir.",
                 afirmacao: [
-                    "Você deveria criar mais confiança em amigos.",
-                    "Você teve uma jornada muito difícil pois não confiava direito em seu amigo."
+                    "você deveria criar mais confiança em amigos.",
+                    "você teve uma jornada muito difícil pois não confiava direito em seu amigo."
                 ],
                 proxima: 4,
             },
