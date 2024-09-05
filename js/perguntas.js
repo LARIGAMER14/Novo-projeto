@@ -137,7 +137,7 @@ export const perguntas = [
                     "Você se alegra ao ver a felicidade e a diversão das pessoas ao seu redor.",
                     "Você sente que fez a escolha certa ao compartilhar a alegria com outros."
                 ],
-                proxima: 8,
+                proxima: 7,
             },
             {
                 texto: "Você sente que a festa não preencheu o vazio que você sentia.",
@@ -145,7 +145,7 @@ export const perguntas = [
                     "Você percebe que a felicidade temporária não substitui a necessidade de algo mais profundo.",
                     "Você começa a refletir sobre o que realmente deseja alcançar na vida."
                 ],
-                proxima: 8,
+                proxima: 7,
             },
         ]
     },
